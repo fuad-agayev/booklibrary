@@ -1,0 +1,246 @@
+[
+  {
+    "id": 1,
+    "title": "The Lost Symbol",
+    "author": "Dan Brown",
+    "descriptions": "Its cryptic text includes references portal.",
+    "price": 11.50,
+    "image": "../images/brown.png"
+  },
+
+  {
+    "id": 2,
+    "title": "Eleven Minutes",
+    "author": "Paulo Coelho",
+    "descriptions": "This book is about a love and a passionate.",
+    "price": 4.99,
+    "image": "../images/eleven.jpg"
+  },
+
+  {
+    "id": 3,
+    "title": "Let's speak openly",
+    "author": "Bahtiyar Vahabzade",
+    "descriptions": "The book consists of many stories.",
+    "price": 50.00,
+    "image": "../images/vahabzade.jpg"
+  },
+
+  
+  {
+    "id": 4,
+    "title": "Qiraətçi",
+    "author": "Bernhard Şlink",
+    "descriptions": "Love and passinate a young man and voman",
+    "price": 7.00,
+    "image": "../images/qiraətçi.jpg"
+  },
+
+  {
+    "id": 5,
+    "title": "Alçağın Üslubu ",
+    "author": "Çingiz Abdullayev",
+    "descriptions": "The policeman is investigating the crime.",
+    "price": 2.99,
+    "image": "../images/alcak.jpg"
+  },
+
+  {
+    "id": 6,
+    "title": "Englidh Grammer in Use",
+    "author": "Raymond Murphy",
+    "descriptions": "The book is very useful for learning English",
+    "price": 6.00,
+    "image": "../images/murpy-2.jpg"
+  },
+
+  {
+    "id": 7,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "descriptions": "A wonderful story about following your dreams.",
+    "price": 8.99,
+    "image": "../images/alchemist.jpg"
+  },
+
+  {
+    "id": 8,
+    "title": "Norveç Meşəsi",
+    "author": "Haruki Murakami",
+    "descriptions": "Girl is looking for her far away love.",
+    "price": 12.59,
+    "image": "../images/haruki.jpg"
+  },
+
+  {
+    "id": 9,
+    "title": "Crossfire",
+    "author": "Dick Francis & Felix Francis",
+    "descriptions": "The book about the war",
+    "price": 9.99,
+    "image": "../images/fransis.jpg"
+  },
+
+  {
+    "id": 10,
+    "title": "Xaç Atası",
+    "author": "Mario Puzo",
+    "descriptions": "Mafia, gangster all about",
+    "price": 8.99,
+    "image": "../images/baba.jpg"
+  },
+
+  {
+    "id": 11,
+    "title": "Brida",
+    "author": "Paulo Coelho",
+    "descriptions": "A wonderful story about Brida's life",
+    "price": 1.50,
+    "image": "../images/brida.jpg"
+  },
+
+  {
+    "id": 12,
+    "title": "Səbəb",
+    "author": "Cey Eşer",
+    "descriptions": "Very successfull advisements",
+    "price": 4.11,
+    "image": "../images/cey.jpg"
+  },
+
+  {
+    "id": 13,
+    "title": "Don Öldü",
+    "author": "Nik Kvarri",
+    "descriptions": "Səhnə arxasında qanlı hakimiyyet mafia davasi",
+    "price": 7.00,
+    "image": "../images/don.jpg"
+  },
+
+  
+  {
+    "id": 14,
+    "title": "Kamikadze Operasyonu",
+    "author": "Atilla Akar",
+    "descriptions": "11 Eylül'ün gerçek romanı",
+    "price": 14.01,
+    "image": "../images/kamikadze.jpg"
+  },
+
+  {
+    "id": 15,
+    "title": "The Stone Cutter",
+    "author": "Camilla Läckberg",
+    "descriptions": "The fishman find the dead baby body in the sea",
+    "price": 21.00,
+    "image": "../images/kamilla.jpg"
+  },
+
+  {
+    "id": 16,
+    "title": "Yaşıl Mil",
+    "author": "Stephen King",
+    "descriptions": "A wonderful story for readers",
+    "price": 17.17,
+    "image": "../images/king.png"
+  },
+
+  {
+    "id": 17,
+    "title": "Komitet",
+    "author": "John Coleman",
+    "descriptions": "Dünya dölətlərini sirləri açıqlanır",
+    "price": 8.00,
+    "image": "../images/komitet.jpg"
+  },
+
+  {
+    "id": 18,
+    "title": "Da Vinçi Şifrəsi",
+    "author": "Dan Brown",
+    "descriptions": "Robert Lenqdonun maceraları davam edir",
+    "price": 13.00,
+    "image": "../images/leo.jpg"
+  },
+
+  {
+    "id": 19,
+    "title": "Yalquzaq",
+    "author": "Herman Hesse",
+    "descriptions": "Roman yalnızlıq və insanın özünü axtarışı haqqında",
+    "price": 5.50,
+    "image": "../images/yalquzaq.jpg"
+  },
+
+  {
+    "id": 20,
+    "title": "The Good Terrorist",
+    "author": "Dorris Lessing",
+    "descriptions": "Very powerfull and effective story",
+    "price": 3.00,
+    "image": "../images/terorist.jpg"
+  },
+
+  {
+    "id": 21,
+    "title": "Berlitz",
+    "author": "Commmunity is author",
+    "descriptions": "The is leading learning Franch.",
+    "price": 0.77,
+    "image": "../images/slovar.jpg"
+  },
+
+  {
+    "id": 22,
+    "title": "Qumarbaz",
+    "author": "Fyodor Dostoyevski",
+    "descriptions": "Kumar oynayan adamin hekayesi",
+    "price": 2.55,
+    "image": "../images/qumarbaz.jpg"
+  },
+
+  {
+    "id": 23,
+    "title": "Parıltı",
+    "author": "Stephen King",
+    "descriptions": "Oxucunu bir anda vahiməyə salır",
+    "price": 11.11,
+    "image": "../images/parilti.jpg"
+  },
+
+  {
+    "id": 24,
+    "title": "Qisas İlahəsi",
+    "author": "Jo Nesbo",
+    "descriptions": "Roman 'Qar Adam' kitabı müəlifi tərəfindən yazılıb",
+    "price": 20.00,
+    "image": "../images/nesbo.png"
+  },
+
+  {
+    "id": 25,
+    "title": "Essential Grammer in Use",
+    "author": "Raymond Murphy",
+    "descriptions": "The book is very useful for learning English",
+    "price": 5.55,
+    "image": "../images/murpy-1.jpg"
+  },
+
+  {
+    "id": 26,
+    "title": "Qaranlıq otaqlar küçəsi",
+    "author": "Patrick Modiana",
+    "descriptions": "Nitsa - kabuslar ve qarabasmalar şəhəridir, amma ümid edirem onlar məni tezliklə narahat etməyəcək...",
+    "price": 4.00,
+    "image": "../images/modiano.jpg"
+  },
+
+  {
+    "id": 27,
+    "title": "Maeve Brennan",
+    "author": "Angela Bourke",
+    "descriptions": "Wit, Style and  Tragedy: Irish Writer in New York",
+    "price": 6.60,
+    "image": "../images/maeve.jpg"
+  }
+]
